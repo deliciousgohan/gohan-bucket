@@ -1,0 +1,15 @@
+{
+  "version": "1.7",
+  "url": "https://github.com/Kyome22/RunCat_for_windows/releases/download/1.7/RunCat_x64.zip",
+  "hash": "e00985d6f4fa7d500692410d9c7cde7b62cc7af76186708381088104393bc84c",
+  "bin": "RunCat.exe",
+  "shortcuts": [
+    [
+      "RunCat.exe",
+      "RunCat"
+    ]
+  ],
+  "description": "A cute running cat animation on your windows taskbar.",
+  "homepage": "https://github.com/Kyome22/RunCat_for_windows",
+  "license": "MIT"
+}
