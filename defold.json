@@ -1,0 +1,15 @@
+{
+  "version": "1.2.185",
+  "url": "https://d.defold.com/archive/editor-alpha/0a8d3e879724132afb18d47e0040c2034be07504/editor-alpha/editor2/Defold-x86_64-win32.zip",
+  "hash": "92b42bbafbae0b464b1d2c5c73bc04bd1b5d8c01d9114aab4fe754816a07c7e4",
+  "bin": "Defold/Defold.exe",
+  "shortcuts": [
+    [
+      "Defold/Defold.exe",
+      "Defold"
+    ]
+  ],
+  "description": "The ultimate game engine for web and mobile.",
+  "homepage": "https://defold.com/",
+  "license": "Copyright 2020 The Defold Foundation"
+}
