@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
-  "url": "https://github.com/Kyome22/RunCat_for_windows/releases/download/1.7/RunCat_x64.zip",
-  "hash": "e00985d6f4fa7d500692410d9c7cde7b62cc7af76186708381088104393bc84c",
+  "version": "1.8",
+  "url": "https://github.com/Kyome22/RunCat_for_windows/releases/download/1.8/RunCat_x64.zip",
+  "hash": "a146d16df4bd526afb3a8209626bc6c0e9339f9446ba820b3aae4dbb0a08f2e3",
   "bin": "RunCat.exe",
   "shortcuts": [
     [
