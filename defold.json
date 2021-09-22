@@ -1,7 +1,7 @@
 {
-  "version": "1.2.186",
-  "url": "https://d.defold.com/archive/editor-alpha/1f748d5b0a84e8b5c58bf747e4c48d153ef77a52/editor-alpha/editor2/Defold-x86_64-win32.zip",
-  "hash": "e9ab775d475d57f41db5dcf71d15d53590cffd49cfb2973f42531e6bbee881bc",
+  "version": "1.2.187",
+  "url": "https://d.defold.com/archive/editor-alpha/581c6439ae93755a8a6bcf58732c39c724fa193c/editor-alpha/editor2/Defold-x86_64-win32.zip",
+  "hash": "7ff880da99213e643fd066567767a1df50a0dc5aed670c6fe4c03e4970997d65",
   "bin": "Defold/Defold.exe",
   "shortcuts": [
     [
