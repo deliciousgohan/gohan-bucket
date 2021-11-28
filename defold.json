@@ -1,7 +1,7 @@
 {
-  "version": "1.2.188",
-  "url": "https://github.com/defold/defold/releases/download/1.2.188/Defold-x86_64-win32.zip",
-  "hash": "2c0091f2d42133f9803309c58e2e1f3cec8c5cad0c4724086fdda36bad85044a",
+  "version": "1.2.189",
+  "url": "https://github.com/defold/defold/releases/download/1.2.189/Defold-x86_64-win32.zip",
+  "hash": "40beaec6ff015e8a0f4d0c761005bf0857ca1e336913577ba355e835bd48c055",
   "bin": "Defold/Defold.exe",
   "shortcuts": [
     [
